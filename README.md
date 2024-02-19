@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/embed/Rpl1sod1vCXK0L2SUN"  />
-  <div class="tenor-gif-embed" data-postid="24565564" data-share-method="host" data-aspect-ratio="1.46789" data-width="100%"><a href="https://tenor.com/view/coding-anime-gif-24565564">Coding Anime GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div>
+  <img height="200" src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif"  />
 </div>
 
 ###
